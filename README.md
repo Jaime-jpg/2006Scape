@@ -1,6 +1,5 @@
-# 2006Scape Project
+# 2006Scape Project - an open source, actively developed emulation server. Pull requests welcome! ![Gameplay Image](https://i.imgur.com/WHnQz2W.png)
 
-Welcome to the 2006Scape project! This repository contains both the server and client code, along with instructions to set up, build, and run the project for development purposes.
 ## Discord Link: https://discord.gg/hZ6VfWG
 ## Resources
 
