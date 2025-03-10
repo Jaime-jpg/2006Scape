@@ -28,13 +28,13 @@ Before getting started, ensure you have the following installed:
 3. **Running the Server:**
    - Go to `2006Scape Server/src/main/java/com.rs2`.
    - Right-click the `GameEngine` class and select **Run**.
-   - ![Run GameEngine](https://i.imgur.com/HHooeVu.png)
+   - ![Run GameEngine](https://i.imgur.com/Y0uT8OW.png)
    - *Alternative:* Run the server with the `-c` or `-config` argument. See details on the [Server Arguments Wiki](https://wiki.2006scape.org/books/getting-setup/page/server-arguments).
 
 4. **Running the Client:**
    - Navigate to `2006Scape Client/src/main/java`.
    - Right-click the `Client` class and select **Run**.
-   - ![Run Client](https://i.imgur.com/gSmqGLn.png)
+   - ![Run Client](https://i.imgur.com/QTMwNyw.png)
 
 ### Building from the Command Line
 
