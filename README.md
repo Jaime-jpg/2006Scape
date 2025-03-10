@@ -72,6 +72,6 @@ Before getting started, ensure you have the following installed:
 2. **Run the Client:**
    Execute:
    ```bash
-   java -jar "2006Scape Client/target/client-1.0-jar-with-dependencies.jar"
+   java -jar '2006Scape Client/target/client-1.0-jar-with-dependencies.jar'
    ```
    *(Replace / with \ on Windows.)*
